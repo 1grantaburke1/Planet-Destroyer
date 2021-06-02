@@ -1,6 +1,3 @@
-//Two Buttons Example
-
-package clickergame;
 import java.awt.*;
 import java.awt.event.*;//necessary for buttons
 import java.applet.*;
